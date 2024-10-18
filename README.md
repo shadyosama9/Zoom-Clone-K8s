@@ -127,7 +127,7 @@ Now you can access the app from the domain sepcified in `zoom-ingress.yml`
 
 <div align="center">
   <br />
-      <img src="https://zoomclone-images.s3.amazonaws.com/Zoom.webp" alt="Argo Login Page">
+      <img src="https://zoomclone-images.s3.amazonaws.com/Zoom.webp" alt="Zoom Clone Page">
   <br />
 </div>
 
@@ -143,7 +143,7 @@ You Access argocd from the domain specified in
 
 <div align="center">
   <br />
-      <img src="https://zoomclone-images.s3.amazonaws.com/Argo-Login.webp" alt="Argo Login Page">
+      <img src="https://zoomclone-images.s3.amazonaws.com/Argo-Login.webp" alt="Argo Application Page">
   <br />
 </div>
 
