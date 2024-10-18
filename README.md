@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://e5s6t7j5.rocketcdn.me/wp-content/uploads/2024/05/Blog-ArgoCD-Blog-Real-700x400.png" alt="Argo and K8s Banner">
+      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*Ej9hveRz7ou4nYLS.png" alt="Argo and K8s Banner">
   
   <br />
 
