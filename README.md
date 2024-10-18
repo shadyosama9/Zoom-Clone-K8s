@@ -125,6 +125,11 @@ Once the app has been deployed and the load blancer has been provisioned:
 
 Now you can access the app from the domain sepcified in `zoom-ingress.yml`
 
+<div align="center">
+  <br />
+      <img src="https://zoomclone-images.s3.amazonaws.com/Zoom.webp" alt="Argo Login Page">
+  <br />
+</div>
 
 ---
 
@@ -142,6 +147,8 @@ You Access argocd from the domain specified in
   <br />
 </div>
 
+<br>
+
 - The username for argo is "admin"
 - To get the passwords run:
 ```bash
@@ -151,3 +158,9 @@ kubectl get secret/argocd-initial-admin-secret -n argocd -o yaml
 ```bash
 echo <your-password> | base64 --decode
 ```
+
+<div align="center">
+  <br />
+      <img src="https://zoomclone-images.s3.amazonaws.com/argo-app.webp" alt="Argo Login Page">
+  <br />
+</div>
